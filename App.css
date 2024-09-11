@@ -58,12 +58,14 @@ nav {
   list-style: none;
   flex-wrap: wrap; /* Allows links to wrap if necessary */
   justify-content: center;
+  cursor: pointer;
 }
 
 .navbar-links-container a {
   margin-right: 1rem;
   text-align: center;
   flex: 1; /* Make links flexibly take up space */
+  cursor: pointer;
 }
 
 .nav li {
@@ -74,6 +76,7 @@ nav {
   margin-right: 20px;
   padding-top: 30px;
   display: flex;
+  cursor: pointer;
 }
 
 .primary-button {
