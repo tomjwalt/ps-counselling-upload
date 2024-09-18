@@ -58,7 +58,6 @@ nav {
   list-style: none;
   flex-wrap: wrap; /* Allows links to wrap if necessary */
   justify-content: center;
-  cursor: pointer;
 }
 
 .navbar-links-container a {
@@ -447,6 +446,7 @@ form input[type="submit"]:hover {
 }
 .work-section-wrapper {
   margin-top: 15rem;
+  padding-top: 1.5rem;
   padding: 0 1rem;
 }
 .work-section-top p {
