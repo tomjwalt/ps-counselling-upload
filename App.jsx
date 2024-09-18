@@ -258,7 +258,9 @@ function App() {
               <br /> <br />
               Level 5 Diploma in Cognitive Behavioural Therapy (including
               Coaching)
-              <br /> br Diploma in Clinical Supervision
+              <br />
+              <br/>
+               Diploma in Clinical Supervision
               <br />
               <br />
               Accredited Rewind Therapy Practitioner with the International
